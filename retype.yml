@@ -1,9 +1,9 @@
 input: .
 output: .retype
-url: anjoanne.github.io/ionedocs/
+url: # Add your website address here
 branding:
-  title: Project Name
-  label: Docs
+  title: I-one 
+  label: DICOM Viewer Docs
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
