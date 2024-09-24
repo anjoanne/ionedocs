@@ -50,8 +50,6 @@ Use the built-in continuous integration in GitLab.
 
 - [Overview]()
 
-    - [Key Features]()
-
     - [Prerequisites]()
 
 - [Getting Started]()
@@ -70,15 +68,15 @@ Use the built-in continuous integration in GitLab.
 
     - [Patient Notes Navigation]()
 
-    - [Data Privacy and Security (HIPAA Compliance)]()
+    - [Data Privacy and Security]()
 
     - [Viewing and Editing Patient Data]()
 
 - [Admin Settings]()
 
-    - [User and Role Management]()
+    - [User Management]()
 
-    - [Routing - Storage - Workflow - Monitoring - User Management]()
+    - [Routing - Storage - Workflow - Monitoring Management]()
 
     - [Storage Configuration]()
 
