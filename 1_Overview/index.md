@@ -13,7 +13,7 @@ The tutorials are organized by topics and can be read independently.
 ## Prerequisites
 
 
-The table describes the requirements for computer, that uses MedDream viewing functionalities from remote MedDream server through the internet:
+The table describes the requirements for computer, that uses Ione viewing functionalities from remote Ione server through the internet:
 
 
 | Tables   |    Desktop Web HTML5  | Mobile iOS Web |
@@ -30,7 +30,7 @@ Intel® Core™ i3 4 core CPU or better
 
 
 
-* Depending on the total amount of RAM on user’s workstation, the browser is allowed to allocate the restricted amount of memory, and therefore MedDream application may load not more than 16 GBytes of data. Due to these limitations, browser may run out of memory, if the user loads several large computed tomography, mammography or tomosynthesis studies.
+* Depending on the total amount of RAM on user’s workstation, the browser is allowed to allocate the restricted amount of memory, and therefore Inoe application may load not more than 16 GBytes of data. Due to these limitations, browser may run out of memory, if the user loads several large computed tomography, mammography or tomosynthesis studies.
 
 ## Getting Started
 
