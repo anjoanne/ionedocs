@@ -8,6 +8,7 @@ order: 1200
 
 The following image shows the main elements of the graphical user interface (GUI). For more detailed documentation on the various elements of the interface, click on the green or blue areas of the image.
 
+![](ione.png)
 
 The interface of the default DICOM workspace consists mainly of 2 parts:
 
