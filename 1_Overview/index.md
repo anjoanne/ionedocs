@@ -31,6 +31,7 @@ In case if you still have any questions regarding this guide feel free to ask [c
 
 
 
+
 The table describes the requirements for computer, that uses Ione viewing functionalities from remote Ione server through the internet:
 
 
@@ -39,7 +40,6 @@ The table describes the requirements for computer, that uses Ione viewing functi
 | CPU|  Intel® Core™ i3 4 core CPU or better | - |
 | RAM |    8+ GB, 256+ MB of video memory  |   100+ Mbit/s|
 | Web Browsers| Chrome 123+, Firefox 124+, Microsoft Edge 123+, Safari 17+ |    Safari 17+, Chrome 123+ |
-
 
 
 Desktop Web HTML5	Mobile iOS Web	Mobile Android Web
