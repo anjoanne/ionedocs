@@ -36,3 +36,5 @@ DICOM Video player (default system player associated with mpg files)
 List of other workspaces
 Dicomizer
 Explorer of standard images (based on the non-dicom-explorer.json configuration profile)
+
+

@@ -5,10 +5,7 @@ expanded: true
 
 # Tutorials
 
-# Rapha view
-
-
-
+-----------
 Please visit I-one DICOM Viewer [FAQ page] for answers to frequently asked questions or problems.
 
 영상을 전송하는 Source 서버의 Station Name, AE Title, Host Name, Port 정보를 입력한 후 New 버튼을 클릭한다.
@@ -16,7 +13,7 @@ Please visit I-one DICOM Viewer [FAQ page] for answers to frequently asked quest
 AE(Application Entity) Title: 이미지를 보낼 목적지
 
 DICOM STORE service를 지원하는 SCU는 의료 영상을 전송하기위하여 전송할곳의 IP address, port 번호, AE (Application
-Entity) title 정
+Entity) title 정리
 
 
 ## Linkage manual?
@@ -63,4 +60,10 @@ Req.Service
 Accession No
 Source AE Title
 Study Size
+
+
+--------
+
+
+
 
