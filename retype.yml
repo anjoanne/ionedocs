@@ -1,13 +1,35 @@
-input: .
+
+start:
+  pro: true
+  
+poweredByRetype: false
+
+outbound:
+  enabled: true
+
+favicon: static/favicon.png
+
+input: ./
 output: .retype
-url: # Add your website address here
+url: ionedocs.com
 branding:
   title: I-one 
   label: DICOM Viewer Docs
-links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+exclude:
+  - "ko"
+
+links: 
+- text: EN
+  link: /
+- text: KO
+  link: ./
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright Ione {{ 2024 }}. All rights reserved." 
 
+search:
+  preload: true
 
+locale: eng
+
+breadcrumb:
+  enabled: true 
