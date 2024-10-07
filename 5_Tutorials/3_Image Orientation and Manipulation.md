@@ -58,3 +58,19 @@ Since “Resize to best fit” is the default mode for a view, the image will be
 
 ## Histogram
 
+
+Fileset
+Patient
+
+Study
+Series
+Images
+
+
+
+이 5가지를 렌더링한 모습을 보여주는 패널
+
+outline 은 아키텍처로 종속되지 않으며 DICOMDIR이 속해있는 폴더에 실제 존재하는 DICOM 폴더 및 파일들의 구조 및 정보를 제공
+With DICOM DIR 모드로 업로드할 경우 DICOMDIR의 구조와 실제 존재하는 폴더 및 파일을 비교하여 DICOMDIR엔 포함되어 있지만 실제로 존재하지 않는 파일의 경우 해당 파일을 제외하여 DICOMDIR에 있고 실제로도 존재하는 파일만 업로드하게 했습니다. 만약 DICOMDIR의 정보와 실제 파일의 존재 여부가 동일하다면 바로 업로드됩니다. 또한 DICOMDIR
+
+

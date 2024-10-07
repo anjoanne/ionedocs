@@ -1,13 +1,19 @@
-# DICOM export
+---
+order: 49
+expanded: true
+---
 
 
-① 영상 다운로드를 원하는 스터디의 체크박스를 클릭합니다.
+# DICOM Export
+
+
+1. 영상 다운로드를 원하는 스터디의 체크박스를 클릭합니다.
 다른 환자의 영상이 포함된 경우: 최대 5 개
-② 오른쪽 상단의 버튼을 클릭하거나 마우스 오른쪽 버튼을 클릭하여 세부메뉴로 이동합니다.
-③ 3 가지의 형식으로 다운로드를 할 수 있습니다.
-I. Export DICOM Zip : 압축파일 형태로 내보내기
-II. Export DICOM CD : CD 파일(ISO)로 내보내기
-III. Export DICOM As : 파일 확장자와 파일이름 형식을 지정하여 내보내기
+2. 오른쪽 상단의 버튼을 클릭하거나 마우스 오른쪽 버튼을 클릭하여 세부메뉴로 이동합니다.
+3. 다음 3 가지 형식으로 다운로드를 할 수 있습니다.
+    I. Export DICOM Zip : 압축파일 형태로 내보내기
+    II. Export DICOM CD : CD 파일(ISO)로 내보내기
+    III. Export DICOM As : 파일 확장자와 파일이름 형식을 지정하여 내보내기
 
 
 Exporting the selected view 
@@ -21,7 +27,6 @@ Anonymize: It allows you to remove identifying information in overlay.
 
 Original Image
 Export the view according to the original image with some options.
-
 
 
 ![](export.png)

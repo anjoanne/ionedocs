@@ -64,3 +64,13 @@ Accession No
 Source AE Title
 Study Size
 
+
+----------
+DICOM DIR
+
+폴더 안에 DICOM 폴더와 DICOM DIR 이 있는 경우
+복수의 팡리을 선택한 경우에만 드랙 드롭이 가능
+업로드할 팡리 선택
+
+
+동일하게 체크 푸는 즉시 파일들 해제 됨
