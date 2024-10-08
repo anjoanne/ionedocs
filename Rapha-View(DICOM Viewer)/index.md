@@ -1,6 +1,3 @@
-
-# Rapha-view 
-
 ## GUI Overview
 
 

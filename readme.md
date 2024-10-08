@@ -3,7 +3,7 @@ order: 1200
 ---
 
 
-# Overview
+# I-one Overview
 
 I-one provides the tools to visualize and analyze images obtained from medical imaging equipment according to the DICOM standard. This free DICOM viewer is used by healthcare professionals, researchers and patients.
 
@@ -13,7 +13,6 @@ The tutorials are organized by topics and can be read independently.
 
 
 ## Prerequisites
-
 
 
 The table describes the requirements for computer, that uses Ione viewing functionalities from remote Ione server through the internet:
@@ -51,3 +50,5 @@ Intel® Core™ i3 4 core CPU or better
 - [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
 
 ## FAQs
+
+Imaging 

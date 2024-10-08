@@ -55,7 +55,7 @@ url: https://example.com/docs # Can also include a protocol
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Example              # Your custom website title; keep it short
+  title: I-one             # Your custom website title; keep it short
   logo: /logo.png             # Path to a logo file
   logoDark: /logo-dark.png    # Path to a logo file to use in dark mode
   logoAlign: right            # Align the logo to the right or the left
@@ -64,7 +64,7 @@ branding:
   colors:
     label:                    # Label colors
       text: "#ffffff"         # Custom color for the label text
-      background: "#ff0000"   # Custom color for the label background
+      background: "#4040FF"   # Custom color for the label background
 
 # -----------------------------------------------------------------------------
 
