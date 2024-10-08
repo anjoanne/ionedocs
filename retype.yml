@@ -153,6 +153,7 @@ integrations:
     domain: domain1.com,domain2.com # Your plausible domain(s)
     host: plausible.example.com     # Custom Plausible host name
 
+
 # -----------------------------------------------------------------------------
 
 markdown:                     # Markdown configuration options
