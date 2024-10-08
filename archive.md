@@ -36,3 +36,5 @@ DICOM 은 컴퓨터 네트워크 상에서 다른 형식의 데이터 영상 서
 서비스 클래스 사용자 (service class user SCU)
 
 IP address, AE 
+
+
